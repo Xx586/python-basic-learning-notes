@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Backup
+_backup/
+*_backup/
+backup/
+
+# Claude / local chat records
+.claude/
+claude_chat_exports/
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
